@@ -6,7 +6,7 @@ namespace _Source
     [RequireComponent(typeof(Button))]
     public class ResourceButton : MonoBehaviour
     {
-        [SerializeField] private ResourceType _resourceType;
+        private ResourceType _resourceType;
     
         private Button _button;
         private Image _buttonImage;
@@ -16,15 +16,13 @@ namespace _Source
 
         private Coroutine _activeTimer;
 
-        private void Awake()
+
+       public void Initialize(ResourceType resourceType)
         {
+            _resourceType = resourceType;
             _button = GetComponent<Button>();
             _buttonImage = GetComponent<Image>();
             _button.onClick.AddListener(OnButtonClicked);
-        }
-
-        private void Start()
-        {
             var timings = DataService.Instance.GetTimings(_resourceType);
             _enrichmentTime = timings.EnrichmentTime;
             _decayTime = timings.DecayTime;

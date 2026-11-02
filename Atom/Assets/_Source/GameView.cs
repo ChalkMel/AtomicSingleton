@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -9,6 +10,7 @@ namespace _Source
     [SerializeField] private GameObject _losePanel;
     [SerializeField] private Button _restartButton;
     [SerializeField] private GameTimer _gameTimer;
+    [SerializeField] private ButtonSpawner _buttonSpawner;
 
    public void Initialize()
     {
@@ -17,8 +19,9 @@ namespace _Source
       _restartButton.onClick.AddListener(RestartGame);
 
       _losePanel.SetActive(false);
+      _buttonSpawner.DrawButtons();
     }
-
+   
     private void OnDestroy()
     {
       Game.Instance.OnGameStarted -= HandleGameStarted;

@@ -33,13 +33,13 @@ namespace _Source
     public Sprite GetActiveSprite(ResourceType type)
     {
       var data = System.Array.Find(_database.Resources, x => x.Type == type);
-      return data != null ? data.ActiveSprite : null;
+      return data?.ActiveSprite;
     }
 
     public Sprite GetInactiveSprite(ResourceType type)
     {
       var data = System.Array.Find(_database.Resources, x => x.Type == type);
-      return data != null ? data.InactiveSprite : null;
+      return data?.InactiveSprite;
     }
   }
 }
