@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: da7d39a6dc13b4b459acfe750104f545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4121687212124884881
+    second: Electron_shell_094_plutonium_0
+  - first:
+      213: 8288684387671683488
+    second: Electron_shell_094_plutonium_1
+  - first:
+      213: 3254492587019428109
+    second: Electron_shell_094_plutonium_2
+  - first:
+      213: 7677564534246398192
+    second: Electron_shell_094_plutonium_3
+  - first:
+      213: -1797543233789703817
+    second: Electron_shell_094_plutonium_4
+  - first:
+      213: 4195876436626266277
+    second: Electron_shell_094_plutonium_5
+  - first:
+      213: -3912963775799776544
+    second: Electron_shell_094_plutonium_6
+  - first:
+      213: 4823933230625966342
+    second: Electron_shell_094_plutonium_7
+  - first:
+      213: 6984373575542444864
+    second: Electron_shell_094_plutonium_8
+  - first:
+      213: 3461453074762956459
+    second: Electron_shell_094_plutonium_9
+  - first:
+      213: -5652781866604483307
+    second: Electron_shell_094_plutonium_10
+  - first:
+      213: -3453447204846498351
+    second: Electron_shell_094_plutonium_11
+  - first:
+      213: 6981054402002147250
+    second: Electron_shell_094_plutonium_12
+  - first:
+      213: 3953610321558350652
+    second: Electron_shell_094_plutonium_13
+  - first:
+      213: 3034448936707075867
+    second: Electron_shell_094_plutonium_14
+  - first:
+      213: 7776329807572640188
+    second: Electron_shell_094_plutonium_15
+  - first:
+      213: -4988482833742851752
+    second: Electron_shell_094_plutonium_16
+  - first:
+      213: -3803890190234058118
+    second: Electron_shell_094_plutonium_17
+  - first:
+      213: 6147231060406695790
+    second: Electron_shell_094_plutonium_18
+  - first:
+      213: 6479256047433006911
+    second: Electron_shell_094_plutonium_19
+  - first:
+      213: -5353439968856005029
+    second: Electron_shell_094_plutonium_20
+  - first:
+      213: 3088592804064827847
+    second: Electron_shell_094_plutonium_21
+  - first:
+      213: 3228026200692719918
+    second: Electron_shell_094_plutonium_22
+  - first:
+      213: 4217823633100255920
+    second: Electron_shell_094_plutonium_23
+  - first:
+      213: 3397851981573699065
+    second: Electron_shell_094_plutonium_24
+  - first:
+      213: 3459113258924386383
+    second: Electron_shell_094_plutonium_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1310
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f49f98eac233930800000000000000
+      internalID: 4121687212124884881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1311
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13f760982570370800000000000000
+      internalID: 8288684387671683488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1311
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016f6dc3c74a2d20800000000000000
+      internalID: 3254492587019428109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1311
+        width: 12
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8d4e334403c8a60800000000000000
+      internalID: 7677564534246398192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1311
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ce81e3f7dd07e0800000000000000
+      internalID: -1797543233789703817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1366
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85a8e636fba3a30800000000000000
+      internalID: 4195876436626266277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1310
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaab7c7d2c52b9c0800000000000000
+      internalID: -3912963775799776544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1308
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609c9a707bd02f240800000000000000
+      internalID: 4823933230625966342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_8
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1310
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04315dc13ca7de060800000000000000
+      internalID: 6984373575542444864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1308
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baefdef5b3d890030800000000000000
+      internalID: 3461453074762956459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1344
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d254097d84d81b0800000000000000
+      internalID: -5652781866604483307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1310
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd0f887014e210d0800000000000000
+      internalID: -3453447204846498351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1310
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d30dcdffa1e060800000000000000
+      internalID: 6981054402002147250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1311
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3badcce3ab0ed630800000000000000
+      internalID: 3953610321558350652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1311
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fac711b378c1a20800000000000000
+      internalID: 3034448936707075867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1310
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb126ac52c21beb60800000000000000
+      internalID: 7776329807572640188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_16
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1311
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519f96fa4955cab0800000000000000
+      internalID: -4988482833742851752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1311
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72818e960ed53bc0800000000000000
+      internalID: -3803890190234058118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_18
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1300
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67f9cb741a5f4550800000000000000
+      internalID: 6147231060406695790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1300
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fbb0ceb01fae950800000000000000
+      internalID: 6479256047433006911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_20
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1300
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56a5f946b2c4b5b0800000000000000
+      internalID: -5353439968856005029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 1200
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c99c1e8ac2ecda20800000000000000
+      internalID: 3088592804064827847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1201
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2181f90ab04ccc20800000000000000
+      internalID: 3228026200692719918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_23
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1203
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b230305f38b88a30800000000000000
+      internalID: 4217823633100255920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_24
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1203
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5be09ef58972f20800000000000000
+      internalID: 3397851981573699065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron_shell_094_plutonium_25
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1203
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48280c8e2d310030800000000000000
+      internalID: 3459113258924386383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electron_shell_094_plutonium_0: 4121687212124884881
+      Electron_shell_094_plutonium_1: 8288684387671683488
+      Electron_shell_094_plutonium_10: -5652781866604483307
+      Electron_shell_094_plutonium_11: -3453447204846498351
+      Electron_shell_094_plutonium_12: 6981054402002147250
+      Electron_shell_094_plutonium_13: 3953610321558350652
+      Electron_shell_094_plutonium_14: 3034448936707075867
+      Electron_shell_094_plutonium_15: 7776329807572640188
+      Electron_shell_094_plutonium_16: -4988482833742851752
+      Electron_shell_094_plutonium_17: -3803890190234058118
+      Electron_shell_094_plutonium_18: 6147231060406695790
+      Electron_shell_094_plutonium_19: 6479256047433006911
+      Electron_shell_094_plutonium_2: 3254492587019428109
+      Electron_shell_094_plutonium_20: -5353439968856005029
+      Electron_shell_094_plutonium_21: 3088592804064827847
+      Electron_shell_094_plutonium_22: 3228026200692719918
+      Electron_shell_094_plutonium_23: 4217823633100255920
+      Electron_shell_094_plutonium_24: 3397851981573699065
+      Electron_shell_094_plutonium_25: 3459113258924386383
+      Electron_shell_094_plutonium_3: 7677564534246398192
+      Electron_shell_094_plutonium_4: -1797543233789703817
+      Electron_shell_094_plutonium_5: 4195876436626266277
+      Electron_shell_094_plutonium_6: -3912963775799776544
+      Electron_shell_094_plutonium_7: 4823933230625966342
+      Electron_shell_094_plutonium_8: 6984373575542444864
+      Electron_shell_094_plutonium_9: 3461453074762956459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
